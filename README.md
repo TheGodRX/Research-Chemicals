@@ -10,14 +10,10 @@
 **Chemical Formula:** COc1ccc(CCN(C)C)cc1S(=O)(=O)OHOc1ccc(CC(=O)O)cc1CC(C(=O)O)CCO
 
 ### Structural Formula
-
-![Euphorisol Structure](https://raw.githubusercontent.com/codercoins/Research-Chemicals/main/COc1ccc(CCN(C)C)cc1S(%3DO)(%3DO)OHOc1ccc(CC(%3DO)O)cc1CC(C(%3DO)O)CCO%20(structural%20formula).png)
+<img src="https://raw.githubusercontent.com/codercoins/Research-Chemicals/main/COc1ccc(CCN(C)C)cc1S(%3DO)(%3DO)OHOc1ccc(CC(%3DO)O)cc1CC(C(%3DO)O)CCO%20(structural%20formula).png" alt="Euphorisol Structure" width="400"/>
 
 *Image of the structural formula of Euphorisol.*
 
-### Resized Structural Formula
-
-<img src="https://raw.githubusercontent.com/codercoins/Research-Chemicals/main/COc1ccc(CCN(C)C)cc1S(%3DO)(%3DO)OHOc1ccc(CC(%3DO)O)cc1CC(C(%3DO)O)CCO%20(structural%20formula).png" alt="Euphorisol Structure" width="400"/>
 
 ## Naming Rationale
 
